@@ -8,7 +8,7 @@ import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.serializer.StringRedisSerializer;
 
 /**
- * @author xiaojing
+ * @author xiaojing1
  */
 @SpringBootApplication
 public class UserApplication {
